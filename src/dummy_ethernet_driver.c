@@ -154,3 +154,4 @@ static int __init dummy_ethernet_driver_module_exit(void)
 
 module_init(dummy_ethernet_driver_module_init);
 module_exit(dummy_ethernet_driver_module_exit);
+MODULE_LICENSE("GPL");
